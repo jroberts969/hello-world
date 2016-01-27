@@ -6,6 +6,7 @@ public class Address {
 	private String line1 = "";
 	private String line2 = "";
 	private String line3 = "";
+	private String line4 = "";
 	private String postCode = "";
 	
 	public String getLine1() {
@@ -31,6 +32,12 @@ public class Address {
 	}
 	public void setPostCode(String postCode) {
 		this.postCode = postCode;
+	}
+	public String getLine4() {
+		return line4;
+	}
+	public void setLine4(String line4) {
+		this.line4 = line4;
 	}
 
 }
