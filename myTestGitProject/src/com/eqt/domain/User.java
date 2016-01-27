@@ -4,6 +4,8 @@ public class User {
 	
 	private String username = "";
 	private String email = "";
+	
+	
 	private Address address = null;
 	
 	public String getUsername() {
