@@ -2,6 +2,7 @@ package com.eqt.domain;
 
 public class Address {
 	
+	
 	private String line1 = "";
 	private String line2 = "";
 	private String line3 = "";
