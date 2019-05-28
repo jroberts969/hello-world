@@ -6,6 +6,7 @@ public class User {
 	private String email = "";
 	private String description = "";
 	private String description2 = "";
+	private String description3 = "";
 	
 	
 	
