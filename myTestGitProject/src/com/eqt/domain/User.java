@@ -4,8 +4,24 @@ public class User {
 	
 	private String username = "";
 	private String email = "";
+	private String description = "";
+	private String description2 = "";
+	private String description3 = "";
 	
 	
+	
+	public String getDescription2() {
+		return description2;
+	}
+	public void setDescription2(String description2) {
+		this.description2 = description2;
+	}
+	public String getDescription() {
+		return description;
+	}
+	public void setDescription(String description) {
+		this.description = description;
+	}
 	private Address address = null;
 	
 	public String getUsername() {
