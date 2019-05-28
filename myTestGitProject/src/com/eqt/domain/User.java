@@ -38,6 +38,19 @@ public class User {
 		return "User [username=" + username + ", email=" + email + ", description=" + description + ", address="
 				+ address + "]";
 	}
+	public User(String username, String email, String description, Address address) {
+		super();
+		this.username = username;
+		this.email = email;
+		this.description = description;
+		this.address = address;
+	}
+	public User() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	
 	
 	
 			
