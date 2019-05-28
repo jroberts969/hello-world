@@ -9,6 +9,9 @@ public class User {
 	private String description3 = "";
 	
 	
+	private String description4 = "";
+	
+	
 	
 	public String getDescription2() {
 		return description2;
