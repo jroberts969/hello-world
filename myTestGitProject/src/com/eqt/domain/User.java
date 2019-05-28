@@ -2,7 +2,7 @@ package com.eqt.domain;
 
 public class User {
 	
-	private String username = ""
+	private String username = "";
 	private String email = "";
 	
 	
